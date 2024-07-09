@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719921274230,295,Homepage,200,OK,Thread Group 1-1,text,true,,11637,183,1,1,http://rgcet.edu.in/index.php,282,0,240
+1719921274546,443,Admissionpage,200,OK,Thread Group 1-1,text,true,,70320,133,1,1,http://rgcetpdy.ac.in/admission2024.php,315,0,136
+1719921274990,310,Examwing,200,OK,Thread Group 1-1,text,true,,5939,132,1,1,http://rgcet.edu.in/examwing/index.php,310,0,134
+1719921275301,163,Placement,200,OK,Thread Group 1-1,text,true,,31348,140,1,1,http://rgcet.edu.in/placementcell_trainers.php,161,0,0
+1719921275465,172,Photo,200,OK,Thread Group 1-1,text,true,,40623,131,1,1,http://rgcet.edu.in/photogallery2.php,167,0,0
+1719921275638,157,Library,200,OK,Thread Group 1-1,text,true,,50057,131,1,1,http://rgcet.edu.in/pages-library.php,154,0,0
+1719921275795,152,AdminContact,200,OK,Thread Group 1-1,text,true,,33180,140,1,1,http://rgcet.edu.in/pages-admissioncontact.php,151,0,0
+1719921275948,290,Circular,200,OK,Thread Group 1-1,text,true,,140598,126,1,1,http://rgcet.edu.in/circular.php,153,0,0
+1719921276239,162,Facilities,200,OK,Thread Group 1-1,text,true,,38343,134,1,1,http://rgcet.edu.in/pages-facilities.php,160,0,0

@@ -1,0 +1,25 @@
+{
+	"id": "7b074e31-de19-48ca-8091-693eb41c1704",
+	"name": "Collection 1",
+	"timestamp": "2024-07-04T11:16:44.836Z",
+	"collection_id": "36735000-4492be73-c62c-4607-87e3-415df85023c1",
+	"folder_id": 0,
+	"environment_id": "36735000-f436c99e-9adf-4739-af92-9c90b7b43c66",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "error",
+	"startedAt": "2024-07-04T11:16:44.378Z",
+	"totalFail": 0,
+	"results": [],
+	"count": 1,
+	"totalTime": 0,
+	"collection": {
+		"requests": [
+			{
+				"id": "f0de2352-7599-4a7f-8285-f26a928b3b5a",
+				"method": "POST"
+			}
+		]
+	}
+}
